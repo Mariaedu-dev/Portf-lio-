@@ -1,4 +1,4 @@
-# Portfólio - The Starry Night de Vincent van Gogh - Frontend
+# Portfólio - The Starry Night de Vincent van Gogh - (Frontend)
 
 Este portfólio foi desenvolvido com **HTML, CSS e JavaScript puro**, tendo como principal referência estética e conceitual o moodboard apresentado, inspirado na obra **"A Noite Estrelada" (1889)** de **Vincent van Gogh**.
 
