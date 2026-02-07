@@ -113,7 +113,7 @@ Este projeto representa o processo, o cuidado com os detalhes e a dedicação ao
 ## 📬 Contato
 
 - **LinkedIn:** *(www.linkedin.com/in/maduvilarim-88580435a)*  
-- **GitHub:** *adicione aqui](https://github.com/Mariaedu-dev*  
+- **GitHub:** *adicione aqui](https://github.com/Mariaedu-dev)*  
 - **Email:** *(vilarim051@gmail.com)*  
 
 Sinta-se à vontade para entrar em contato, trocar ideias ou conversar sobre arte, tecnologia e desenvolvimento.
