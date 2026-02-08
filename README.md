@@ -10,10 +10,10 @@ Mais do que um projeto visual, este portfólio representa a união entre **arte,
 
 O design do portfólio nasce a partir de um moodboard cuidadosamente elaborado, que reúne:
 
-* A profundidade emocional das obras de Van Gogh
-* A expressividade das pinceladas e do movimento
-* O contraste entre tons escuros e cores vibrantes
-* A simbologia da arte como forma de trazer sentido, beleza e alegria ao mundo
+* A profundidade emocional das obras de Van Gogh;
+* A expressividade das pinceladas e do movimento;
+* O contraste entre tons escuros e cores vibrantes;
+* A simbologia da arte como forma de trazer sentido, beleza e alegria ao mundo.
 
 Assim como Van Gogh utilizava cores e texturas para expressar sentimentos, este projeto utiliza **cores, tipografia e interações** para transmitir identidade, sensibilidade e intenção.
 
